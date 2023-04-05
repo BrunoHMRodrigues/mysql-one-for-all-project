@@ -16,6 +16,6 @@ INSERT INTO favorite_songs (user_id, song_id) VALUES (4, 7);
 INSERT INTO favorite_songs (user_id, song_id) VALUES (4, 4);
 INSERT INTO favorite_songs (user_id, song_id) VALUES (5, 10);
 INSERT INTO favorite_songs (user_id, song_id) VALUES (5, 2);
-INSERT INTO favorite_songs (user_id, song_id) VALUES (8, 2);
+INSERT INTO favorite_songs (user_id, song_id) VALUES (8, 4);
 INSERT INTO favorite_songs (user_id, song_id) VALUES (9, 7);
 INSERT INTO favorite_songs (user_id, song_id) VALUES (10, 3);
